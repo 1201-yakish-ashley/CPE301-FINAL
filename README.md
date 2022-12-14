@@ -5,4 +5,5 @@ Member:
 Ashley Yakish
 
 NOTE:
-The demo video is in the PDF document as a google drive link!
+The demo video was too large to attatch so here is the link:
+https://drive.google.com/file/d/1uqiJ8kgiDeb-Z5Uk4MZePxIEwvdMXu4z/view?usp=sharing 
